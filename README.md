@@ -47,6 +47,7 @@ Grab the [latest release](https://github.com/jorisvink/kore/releases/tag/2.0.0-r
 Requirements
 * openssl (latest)
   (note: this requirement drops away when building with NOTLS=1 NOHTTP=1)
+* yajl
 
 Requirements for background tasks (optional)
 * pthreads
